@@ -18,7 +18,7 @@ This document walks through the process of creating and resolving a simulated he
 
 ---
 
-## Ticket #9 — WiFi Not Connecting to Laptop (LAPTOP01)
+## Ticket #1 — WiFi Not Connecting to Laptop (LAPTOP01)
 
 ### Step 1: Create the Ticket
 
@@ -32,6 +32,7 @@ A new ticket was submitted via the **"Create a Ticket"** form in Spiceworks.
 | **Assignee** | Hashim Sufi |
 | **Priority** | High |
 | **Category** | Network |
+<img width="941" height="590" alt="IMG_2126" src="https://github.com/user-attachments/assets/c2f2da39-fd1f-4e89-9643-3ff35185eb09" />
 
 > Priority set to **High** — no network connectivity directly impacts the user's ability to work.
 
