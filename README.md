@@ -47,6 +47,7 @@ A new ticket was submitted via the **"Create a Ticket"** form in Spiceworks.
 
 ### Step 3: Resolve & Communicate
 <img width="695" height="596" alt="IMG_2127" src="https://github.com/user-attachments/assets/9353a5f2-992b-487d-90da-4b360beff8ef" />
+
 **Technician response in ticket:**
 > "Hello, your WiFi Certificate has expired and I just renewed it on the backend. Can you please check if it's working now?"
 
