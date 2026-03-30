@@ -1,2 +1,6 @@
 # Spiceworks Help Desk Lab
-Help desk ticketing system home lab using Spiceworks covering ticket lifecycle, SLA configuration, and IT support workflows.
+spiceworks-lab/
+├── README.md  ← paste or link this doc
+├── screenshots/
+│   ├── IMG_2126.png
+│   └── IMG_2127.png
