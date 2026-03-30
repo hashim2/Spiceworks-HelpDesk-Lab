@@ -116,7 +116,8 @@ using the Close button in the top-right of the ticket view.
 
 A new ticket was submitted on behalf of the end user via the Create a Ticket form.
 
-![Creating ticket #12 in Spiceworks](screenshots/IMG_5439.jpeg)
+<img width="709" height="597" alt="image" src="https://github.com/user-attachments/assets/a5c7ea36-e2f8-4d29-a457-e8d65885bd14" />
+
 
 | Field | Value |
 |---|---|
@@ -148,9 +149,10 @@ and requires **Database Admin** intervention.
 ### Step 3: Escalate & Communicate
 
 Since the issue could not be resolved at Tier 1, the ticket was escalated
-to the Database Admin team with full context.
+to the Database Admin team with full 
 
-![Ticket #12 escalation thread in Spiceworks](screenshots/IMG_5438.jpeg)
+<img width="702" height="592" alt="image" src="https://github.com/user-attachments/assets/664c1343-dd71-429c-ba9f-d2737dc7df55" />
+
 
 **Technician public reply:**
 > "Hello, I'm escalating this ticket to the Database Admin team. The user's
