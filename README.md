@@ -34,7 +34,8 @@ triage, resolution, escalation, and internal documentation.
 
 A new ticket was submitted on behalf of the end user via the Create a Ticket form.
 
-![Creating ticket #9 in Spiceworks](screenshots/IMG_2126.png)
+<img width="941" height="590" alt="image" src="https://github.com/user-attachments/assets/eb29ac01-8f2d-47cc-9197-1a67e069dc9d" />
+
 
 | Field | Value |
 |---|---|
@@ -65,7 +66,8 @@ After reviewing the ticket, the root cause was identified:
 
 The fix was pushed remotely and the technician followed up in the ticket thread.
 
-![Ticket #9 resolution thread in Spiceworks](screenshots/IMG_2127.png)
+<img width="695" height="596" alt="image" src="https://github.com/user-attachments/assets/5e2b8ab3-b518-4b17-b37b-b05d1306e7a2" />
+
 
 **Technician public reply:**
 > "Hello, your WiFi Certificate has expired and I just renewed it on the
